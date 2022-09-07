@@ -6,3 +6,5 @@ oranges
 cherreis
 carrots
 grava
+cucumbers
+raddishes
